@@ -8,6 +8,7 @@ class WorkshopsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assert true==false;
 	}
 
 }
